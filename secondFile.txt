@@ -8,3 +8,5 @@
 8 line
 9 line another diff
 10 line another diff
+9 line with diff
+10 line with diff

@@ -1,0 +1,24 @@
+From 4bc4754e43725160a168d6eb583d2ec789b493a5 Mon Sep 17 00:00:00 2001
+From: sergruff <sergruff@gmail.com>
+Date: Wed, 15 Mar 2023 17:53:12 +0100
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 716fe27..527614f 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -6,5 +6,5 @@
+ 6 line
+ 7 line
+ 8 line
+-9 line
+-10 line
++9 line to modify
++10 line to modify
+-- 
+2.38.0.windows.1
+
